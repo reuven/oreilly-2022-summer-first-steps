@@ -1,4 +1,4 @@
-# Jupyter notebook from my "First Steps" course, Summer 2022
+# Files from my O'Reilly "First Steps" course, Summer 2022
 
 This repo will contain the Jupyter notebooks and files from my Summer 2022 "Python first steps" course
 
